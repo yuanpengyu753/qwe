@@ -1,0 +1,15 @@
+{
+    "name": "yuanpengyu753/qwe",
+    "type": "project",
+    "require": {
+        "houdunwang/error": "*"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "yuanpengyu",
+            "email": "461979314@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
